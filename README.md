@@ -1,3 +1,4 @@
+# forked from https://github.com/fberlinger/bluesim
 # Bluesim
 
 Bluesim is a realistic three dimensional simulator to test ideas for collective behaviors with Bluebots.
